@@ -94,7 +94,7 @@ export default function App(){
       </main>
 
       <footer className="py-6 text-center text-slate-500 text-sm">
-        Made with ❤️ using React + Tailwind (Frontend only)
+        Made with ❤️ using React + Tailwind (Frontend only) by awadh patel
       </footer>
     </div>
   )
