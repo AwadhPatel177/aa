@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --poster-w: 1080px;
+  --poster-h: 1350px;
+}
+/* helpful utility for fixed-canvas exports */
+.export-canvas {
+  width: var(--poster-w);
+  height: var(--poster-h);
+}
